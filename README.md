@@ -39,3 +39,6 @@ This is meant to assist in developing safe, contact based and
 physiology-based biometric authentication systems. It provides
 enhanced resistance to attacks of spoofing and preconditions
 the development of real-time hardware use in the future
+
+NOTE:- ALL THE CODE AND REQUIRED DATSET INFO RESULTS AND ARE MENTIONED IN THE CODE.
+
